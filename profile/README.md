@@ -1,6 +1,6 @@
 # Vymalo
 
-by SSegning
+by [SSegning](https://www.ssegning.com)
 
 ## Welcome
 
