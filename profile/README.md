@@ -27,3 +27,8 @@ Also, at the end of our README files, we usually includes links to other resourc
 ### Store
 - https://github.com/vymalo/store-federation-api
 - https://github.com/vymalo/store-cms-api
+
+### Skakel
+- https://github.com/vymalo/skakel-server
+- https://github.com/vymalo/skakel-mobile-app
+- https://github.com/vymalo/skakel-website
