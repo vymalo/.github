@@ -14,9 +14,16 @@ Also, at the end of our README files, we usually includes links to other resourc
 
 ## Repos
 
+### Keycloak
 - https://github.com/vymalo/keycloak-webhook
 - https://github.com/vymalo/keycloak-phone-number
 - https://github.com/vymalo/keycloak-mailchimp
 - https://github.com/vymalo/keycloak-bcrypt
+
+### Experiments
 - https://github.com/vymalo/api-watcher-ui
 - https://github.com/vymalo/api-watcher-backend
+
+### Store
+- https://github.com/vymalo/store-federation-api
+- https://github.com/vymalo/store-cms-api
